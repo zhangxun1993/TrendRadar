@@ -1,5 +1,32 @@
-胖东来
-于东来
+ai
+agi
+!gai
+人工智能
+
+自动驾驶
+
+机器人
+建筑机器人
+智能建造
+
+特斯拉
+马斯克
+
+英伟达
+NVIDIA
+黄仁勋
+
+谷歌
+google
+gemini
+deepmind
+
+chatgpt
+openai
+sora
+
+claude
+Anthropic
 
 DeepSeek
 梁文锋
@@ -23,25 +50,6 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
 
@@ -49,42 +57,15 @@ DJI
 bytedance
 张一鸣
 
-特斯拉
-马斯克
-
 微软
 Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
-
 AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
 
 国产
 中国
